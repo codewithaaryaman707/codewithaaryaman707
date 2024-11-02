@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithaaryaman707&label=Profile%20views&color=0e75b6&style=flat" alt="codewithaaryaman707" /> </p>
 
-<p align="left"> <a href="https://x.com/beingaaryamaan?t=avoaxmbeo635l4i7aj6nmq&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/beingaaryamaan?t=avoaxmbeo635l4i7aj6nmq&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/beingaaryamaan?t=avoaxmbeo635l4i7aj6nmq&s=08" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Dart**
 
