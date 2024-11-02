@@ -3,7 +3,8 @@
 <h3 align="center">A passionate full stack developer with a keen interest in Android and Web Development. Currently pursuing Bachelors in Computer Engineering, I look forward to master the world of Technology. Java, C, C++, Python make up to my choice. I dream to become the most complete developer in the world!</h3>
 
 
-<img align = “right” alt=“Coding” width=“400” src=“https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithaaryaman707&label=Profile%20views&color=0e75b6&style=flat" alt="codewithaaryaman707" /> </p>
 
