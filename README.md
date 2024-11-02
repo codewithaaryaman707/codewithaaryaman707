@@ -1,4 +1,4 @@
-[![MasterHead] (https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![logo](banner.jpeg)
 <h1 align="center">Hi 👋, I'm Aaryamaan Ahirao!</h1>
 <h3 align="center">A passionate full stack developer with a keen interest in Android and Web Development. Currently pursuing Bachelors in Computer Engineering, I look forward to master the world of Technology. Java, C, C++, Python make up to my choice. I dream to become the most complete developer in the world!</h3>
 
